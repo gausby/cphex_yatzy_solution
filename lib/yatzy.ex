@@ -1,0 +1,2 @@
+defmodule Yatzy do
+end
